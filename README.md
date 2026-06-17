@@ -1,6 +1,6 @@
 # Classification de Tweets Scientifiques
 
-**Module :** HAI817 — Machine Learning I  
+**Module :** Machine Learning I  
 **Année :** 2025–2026
 
 ---
